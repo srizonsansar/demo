@@ -3,4 +3,4 @@
 This is a simple Readme file.
 This is second update in the file.
 
-This is deleted
+This is a small update.
